@@ -1,4 +1,4 @@
-# ⚛️ Boilerplate-react-native
+# ⚛️ Boilerplate-react-native 0.70.6 React Native version
 
 ### Simple boilerplate to initialize a new project in React Native
 ***
