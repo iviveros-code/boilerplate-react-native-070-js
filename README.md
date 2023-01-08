@@ -1,4 +1,4 @@
-# ⚛️ Boilerplate-react-native
+# ⚛️ Boilerplate-react-native 0.70.6 version
 
 ### Simple boilerplate to initialize a new project in React Native
 ***
@@ -24,7 +24,7 @@
 
 6. [React Final Form](https://final-form.org/docs/react-final-form/getting-started) This library replace Redux Form, it's an awesome way to handle forms and actually works very well in React Native.
 
-7. [React Native BootSplash](https://github.com/zoontek/react-native-bootsplash)  In this template you only have to change the image in ./assets/splash/splash.png and run again `npx react-native generate-bootsplash ./assets/splash/andTheNameOfyourNewImage.png` . If you need an animatation I recomend you watch examples in YouTube. Read the doc, you can add some props when run the command in the Terminal.
+7. [React Native Testing Library](https://callstack.github.io/react-native-testing-library/docs/getting-started)  For test screens and components.
 
 8. [React Native Device Info](https://github.com/react-native-device-info/react-native-device-info) Provides you a lot of information about the device of the user, for example, if the device has a notch or not, and take styles decisions from there. Gives you some hooks too.
 
