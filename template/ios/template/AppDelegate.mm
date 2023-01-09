@@ -1,4 +1,5 @@
 #import "AppDelegate.h"
+#import "RNSplashScreen.h"
 
 #import <React/RCTBridge.h>
 #import <React/RCTBundleURLProvider.h>
@@ -59,6 +60,7 @@ static NSString *const kRNConcurrentRoot = @"concurrentRoot";
   rootViewController.view = rootView;
   self.window.rootViewController = rootViewController;
   [self.window makeKeyAndVisible];
+  [RNSplashScreen show]; // here
   return YES;
 }
 
